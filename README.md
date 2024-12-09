@@ -5,6 +5,7 @@
 - User Profiles: Showcase of personal details, skills, work experience, education, and projects.
 - Employer Interest Form: A form that allows employers to indicate which candidate they are interested in and the specific job roles or projects they are seeking help with.
 - Email Notifications: When an employer submits the interest form, the candidate receives an email notification with the employer's details and inquiry. This feature enhances the interaction between candidates and employers in real-time.
+- Rule-Based Chatbot: A chatbot integrated into the web application to assist users by answering predefined FAQs or guiding them through the portfolio features.
 - Data Storage: The application uses MongoDB to store the form data and candidate profiles securely.
 - Real-Time Interaction: Employers can submit inquiries through the interest form, which is stored in the database and displayed in real-time on the candidate's dashboard.
 - Responsive Design: The web app is designed to be mobile-friendly, ensuring users can access it across all devices.
@@ -19,5 +20,6 @@
 - Dynamic Portfolio: Display candidate’s CV dynamically from data stored in MongoDB.
 - Employer Interest Form: Allows potential employers to fill out an interest form for a particular candidate.
 - Email Notifications: Automatically sends an email to the candidate when an employer submits the interest form.
+- Rule-Based Chatbot: Provides instant responses to FAQs and guides users in using the platform.
 - Admin Dashboard: To view all submissions from employers and manage the profiles.
 - Live Data Updates: Form data is instantly reflected in the web app, providing real-time updates.
